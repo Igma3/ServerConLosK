@@ -1,54 +1,349 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1718570844581 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1718570896611 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 used-restaurant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718570847634 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718570899673 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 used-restaurant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718570850754 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718570902732 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 used-restaurant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718570853802 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718570905785 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 used-restaurant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718570856850 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718570908836 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 used-restaurant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718570859897 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718570911886 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 used-restaurant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718570862938 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718570914948 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 used-restaurant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718570865977 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718570917986 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 used-restaurant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718570869042 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718570921086 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 used-restaurant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718570872092 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718570924139 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 used-restaurant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718570875138 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718570927191 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+used-restaurant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718570930239 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+used-restaurant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718570933296 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+used-restaurant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718570936339 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+used-restaurant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718570939484 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+used-restaurant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718570942531 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+used-restaurant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718570945573 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+used-restaurant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718570948617 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+used-restaurant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718570951668 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+used-restaurant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718570954730 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+used-restaurant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718570957782 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+used-restaurant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718570960867 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+used-restaurant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718570963917 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+used-restaurant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718570966980 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+used-restaurant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718570970034 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+used-restaurant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718570973067 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+used-restaurant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718570976126 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+used-restaurant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718570979179 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+used-restaurant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718570982248 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+used-restaurant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718570985311 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+used-restaurant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718570988354 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+used-restaurant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718570991404 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+used-restaurant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718570994467 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+used-restaurant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718570997515 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+used-restaurant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718571000553 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+used-restaurant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718571003620 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+used-restaurant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718571006684 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+used-restaurant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718571009734 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+used-restaurant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718571012796 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+used-restaurant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718571015860 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+used-restaurant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718571018907 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+used-restaurant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718571021971 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+used-restaurant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718571025023 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+used-restaurant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718571028106 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+used-restaurant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718571031175 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+used-restaurant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718571034222 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+used-restaurant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718571037273 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+used-restaurant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718571040312 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+used-restaurant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718571043367 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+used-restaurant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718571046434 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+used-restaurant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718571049524 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+used-restaurant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718571052602 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+used-restaurant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718571055675 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+used-restaurant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718571058735 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+used-restaurant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718571061788 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+used-restaurant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718571064843 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+used-restaurant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718571067897 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+used-restaurant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718571070947 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+used-restaurant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718571074028 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+used-restaurant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718571077092 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+used-restaurant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718571080137 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+used-restaurant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718571083180 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+used-restaurant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718571086236 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+used-restaurant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718571089284 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+used-restaurant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718571092335 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+used-restaurant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718571095393 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+used-restaurant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718571098436 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+used-restaurant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718571101482 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+used-restaurant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718571104544 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+used-restaurant.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718571107602 tunnel running, 1 tunnels registered
 
 
 TUNNELS
